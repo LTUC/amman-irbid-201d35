@@ -1,0 +1,15 @@
+h1 {
+  color: lightblue;
+  font-size: 100px;
+}
+p {
+  background-color: green;
+}
+#firstP {
+  background-color: lightcoral;
+}
+
+.same {
+  background-color: green;
+}
+/*  */
