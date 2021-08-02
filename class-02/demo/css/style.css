@@ -1,0 +1,23 @@
+nav ul li {
+  /* border: 1px solid red; */
+  display: inline-block;
+  width: 100px;
+  /* padding: 10px; */
+  /* padding-top: 5px;
+  padding-bottom: 5px; */
+  padding: 5px 0 5px 0;
+  margin: 20px;
+  text-align: center;
+}
+div {
+  /* border: 1px solid green; */
+}
+
+span {
+  /* border: 1px solid blue; */
+  width: 300px;
+}
+
+a {
+  text-decoration: none;
+}
