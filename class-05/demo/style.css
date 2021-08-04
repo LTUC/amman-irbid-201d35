@@ -1,0 +1,27 @@
+#parent {
+  background-color: #845ec2;
+  height: 1000px;
+  margin: 5%;
+}
+div {
+  text-align: center;
+  color: white;
+  line-height: 100px;
+}
+#one {
+  background-color: #ff5e78;
+  width: 200px;
+  height: 100px;
+}
+#two {
+  background-color: #ffcc29;
+  width: 200px;
+  height: 100px;
+}
+#three {
+  background-color: #295939;
+  width: 200px;
+  height: 100px;
+}
+p {
+}
