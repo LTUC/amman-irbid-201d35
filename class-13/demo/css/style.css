@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://freedesignfile.com/upload/2018/09/Cup-with-coffee-time-background-vector.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul#orders {
+  background-color: #ca9e7b;
+  /* opacity: 0.5; */
+  font-weight: bold;
+  color: hsl(0, 18%, 10%);
+  width: 300px;
+  overflow: auto;
+}
