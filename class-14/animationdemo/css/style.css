@@ -9,24 +9,24 @@ img {
 /*transform distorts elements from their original size/shape/position. 'transform' is the property name; it can have different values, like rotate, scale, skew, and translate (like relative positioning, translate moves it to a new place, relative to its old one)*/
 
 /* The rotate() method rotates an element clockwise or counter-clockwise according to a given degree. */
-/* 
-#css:hover {
+
+/* #css:hover {
   transform: rotate(-45deg);
- transition: 5s;
+  transition: 5s;
 }
 
 #html:hover {
-  transform: rotate(360deg);
-  transition: 5s; 
+  transform: rotate(60deg);
+  transition: 5s;
 } */
 
 /* 
 
 
 The scale() method increases or decreases the size of an element (according to the parameters given for the width and height). */
-/* 
-#css:hover {
-  transform: rotate(35deg) scale(1.3);
+
+/* #css:hover {
+  transform: rotate(35deg) scale(2);
   transition: 5s;
 }
 
@@ -38,7 +38,7 @@ The scale() method increases or decreases the size of an element (according to t
 /* method moves an element from its current position (according to the parameters given for the X-axis and the Y-axis). */
 /* 
 #css:hover {
-  transform: translateX(150px);
+  transform: translateY(150px);
   transition: 5s;
 }
 
@@ -48,8 +48,8 @@ The scale() method increases or decreases the size of an element (according to t
 } */
 
 /* The skew() method skews an element along the X and Y-axis by the given angles. */
-
-/* #css:hover {
+/* 
+#css:hover {
   transform: skewX(50deg);
   transition: 5s;
 }
